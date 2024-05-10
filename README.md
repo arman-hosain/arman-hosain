@@ -2,7 +2,7 @@
 Source: https://www.sitepoint.com/github-profile-readme/#:~:text=Adding%20GitHub%20Stats
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBwOTE2eWdobDB0NXNkOWJwZWp0ZGZyN3p3N2NmcGhkcTZra2MyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDM1aGxuNDJ1c2g0anUyMmpocWFjcTBuemtocGRxNmtrZDl0dTh6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"/>
   <br>
   <img src="https://komarev.com/ghpvc/?username=arman-hosain&style=flat-square&color=blue" alt=""/>
   <h3>
